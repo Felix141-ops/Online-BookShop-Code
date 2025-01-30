@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\bin\Debug\net8.0\Online-BookShop.Utility.deps.json
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\bin\Debug\net8.0\Online-BookShop.Utility.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\bin\Debug\net8.0\Online-BookShop.Utility.pdb
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.AssemblyInfo.cs
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\refint\Online-BookShop.Utility.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.pdb
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\ref\Online-BookShop.Utility.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.Utility\obj\Debug\net8.0\Online-BookShop.Utility.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\bin\Debug\net8.0\Online-BookShop.DataAccess.deps.json
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\bin\Debug\net8.0\Online-BookShop.DataAccess.runtimeconfig.json
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\bin\Debug\net8.0\Online-BookShop.DataAccess.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\bin\Debug\net8.0\Online-BookShop.DataAccess.pdb
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\bin\Debug\net8.0\Online-BookShop.Models.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\bin\Debug\net8.0\Online-BookShop.Models.pdb
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-B.F4474360.Up2Date
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\refint\Online-BookShop.DataAccess.dll
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.pdb
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\Online-BookShop.DataAccess.genruntimeconfig.cache
+C:\Users\HP\source\repos\Online-BookShop\Online-BookShop.DataAccess\obj\Debug\net8.0\ref\Online-BookShop.DataAccess.dll

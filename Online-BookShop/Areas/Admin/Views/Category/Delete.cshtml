@@ -1,0 +1,47 @@
+﻿@using Online_BookShop.Models.Models
+@model Category
+<div class="card shadow border-0 mt-4">
+    <div class="card-border bg-secondary bg-grandient mt-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-primary">Delete Category</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-4">
+        <form method="post">
+            <div class="border p-3 mt-4">
+                <input asp-for="CategoryId" hidden />  @* populates an id, when id does not exist *@
+
+                @* <div asp-validation-summary="ModelOnly"></div> *@
+                <div class="row mb-1 p-1">
+                    <label asp-for="Name" class="mb-3 p-0"></label>
+                    <input asp-for="Name" disabled class="form-control" />
+
+                </div>
+                <div class="row mb-1 p-1">
+                    <label asp-for="DisplayOrder" class="mb-3 p-0"></label>
+                    <input asp-for="DisplayOrder" disabled class="form-control" />
+
+
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-danger form-control">Delete</button>
+                    </div>
+                    <div class="col-6 col-md-3 ">
+                        <a asp-controller="Category" asp-action="Index" class="btn btn-outline-secondary form-control">
+                            Back to list
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
